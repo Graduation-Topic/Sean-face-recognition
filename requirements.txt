@@ -1,0 +1,31 @@
+# OpenCV
+opencv-python
+
+# Face-Recognition
+face-recognition
+
+# Face-Recognition Module
+git+https://github.com/ageitgey/face_recognition_models
+
+# Mediapipe
+mediapipe
+
+# calculate
+numpy<2.0.0
+scipy
+
+# others
+cmake
+dlib
+distance
+
+# Image Processing
+matplotlib
+
+# ipykernel
+ipykernel
+
+# setuptools
+setuptools<81
+
+
